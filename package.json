@@ -1,5 +1,5 @@
 {
-  "name": "ryanmcdermott",
+  "name": "set-tools",
   "version": "0.0.1",
   "description": "Function extensions for JavaScript's built-in Set type",
   "main": "index.js",
