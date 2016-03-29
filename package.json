@@ -1,0 +1,32 @@
+{
+  "name": "ryanmcdermott",
+  "version": "0.0.1",
+  "description": "Function extensions for JavaScript's built-in Set type",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanmcdermott/set-tools.git"
+  },
+  "keywords": [
+    "set",
+    "sets",
+    "union",
+    "intersection",
+    "difference",
+    "issubset",
+    "issuperset"
+  ],
+  "author": "Ryan McDermott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanmcdermott/set-tools/issues"
+  },
+  "devDependencies": {
+    "mocha": "2.4.5",
+    "chai": "3.5.0"
+  },
+  "homepage": "https://github.com/ryanmcdermott/set-tools#readme"
+}
