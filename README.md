@@ -1,4 +1,4 @@
-# set-tools
+# set-tools [![Build Status](https://api.travis-ci.org/ryanmcdermott/set-tools.svg?branch=master)](https://travis-ci.org/ryanmcdermott/set-tools)
 
 
 ## What is it?
