@@ -49,7 +49,7 @@ results = s.difference(cmp); // Set {1, 5, 7}
 
 
 /**
- * issubset
+ * issuperset
  */
 s = new Set([1, 3, 5, 7, 9]);
 cmp = new Set([3, 5]);
@@ -63,7 +63,7 @@ results = s.issuperset(cmp); // false
 
 
 /**
- * issuperset
+ * issubset
  */
 s = new Set([11, 15, 18, 20]);
 cmp = new Set([11, 15, 18, 20, 25, 89, 100]);
